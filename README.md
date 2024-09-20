@@ -4,7 +4,7 @@
 <a href="https://github.com/Mauro124"><img alt="Github" src="https://img.shields.io/badge/Github-Mauro124-gray?style=flat-square&logo=github"></a>
 <a href="https://twitter.com/maurobeltrame3"><img alt="X" src="https://img.shields.io/badge/maurobeltrame3-black?style=flat-square&logo=x"></a>
 <a href="https://www.linkedin.com/in/maurobeltrame/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-maurobeltrame-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mauro124_-red?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/mauro124_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mauro124_-red?style=flat-square&logo=instagram"></a>
 <a href="mailto:maurobeltrame12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maurobeltrame12@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
