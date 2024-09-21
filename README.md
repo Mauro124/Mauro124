@@ -17,12 +17,13 @@ AI & Data Processing: I work with Python for AI models and Firebase for backend 
 Real-time Data Processing: I have extensive experience with Apache NiFi and Apache Kafka for processing large volumes of data in real-time.
 I'm passionate about building innovative mobile solutions and am always looking to collaborate on interesting projects. Feel free to reach out!
 
-<!--
-<a href="https://github.com/Mauro124">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauro124&show_icons=true&theme=dark&orgs=crab-team,gooroobooster,thebrighthotel,musiclap" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro124&theme=dark&show_icons=true&orgs=crab-team,gooroobooster,thebrighthotel,musiclap" />
+
+<a align="center" href="https://github.com/Mauro124">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Mauro124&theme=react&hide_border=true" />
 </a>
--->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mauro124&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Projects & Contributions :computer:<br>
 🏗️ Check out some of my Flutter projects in the repositories below!<br>
