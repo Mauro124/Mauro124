@@ -18,9 +18,7 @@ Real-time Data Processing: I have extensive experience with Apache NiFi and Apac
 I'm passionate about building innovative mobile solutions and am always looking to collaborate on interesting projects. Feel free to reach out!
 
 
-<a align="center" href="https://github.com/Mauro124">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Mauro124&theme=react&hide_border=true" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mauro124&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mauro124&limit=5&theme=dark&combine_all_yearly_contributions=true)
